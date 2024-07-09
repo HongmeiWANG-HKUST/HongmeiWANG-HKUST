@@ -9,10 +9,9 @@
 ![391681efacea4dc7b1625d921862b708](https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/7ea30d04-ff37-42c6-92a6-69f5d1fc907c)
 
 
-</samp>
-  <img src="[391681efacea4dc7b1625d921862b708.gif]" width="200"/>
 
-</p>
+  <img src="[https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/7ea30d04-ff37-42c6-92a6-69f5d1fc907c.gif]" width="200"/>
+
 
 <!--
 **HongmeiWANG-HKUST/HongmeiWANG-HKUST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
