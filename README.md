@@ -1,4 +1,4 @@
-## Hi there 👋
+![3685c2e10930b3620fc1b3304579a01d](https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/ab5aef24-027c-488d-9a85-06d614c32f84)## Hi there 👋
 <p align="center">
   <br>
   <samp>
@@ -7,7 +7,7 @@
 
 </samp>
 
-  <img src="[https://img.zcool.cn/community/01b5c35d2c7097a80120b5ab0dff6b.gif]" width="200"/>
+  <img src="[https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/98c865e5-5415-41fc-a440-7315ee7b4a6f.gif]" width="200"/>
 
 </p>
 
