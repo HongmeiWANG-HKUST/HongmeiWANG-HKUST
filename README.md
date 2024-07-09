@@ -5,8 +5,10 @@
     Hello! I'm Hongmei.
     <br>I'm a Ph.D student from the Department of Computer Science and Engineering (CSE) at The Hong Kong University of Science and Technology.<br>
 
+![image](https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/efd11330-a1c1-4cde-ac9e-f0c7ccad2f81)
+
 </samp>
-  <img src="[https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/04bbc6dc-3369-434d-a82b-6be42757c693.gif]" width="200"/>
+  <img src="[]" width="200"/>
 
 </p>
 
