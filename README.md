@@ -4,8 +4,7 @@
   <samp>
     Hello! I'm Hongmei.
     <br>I'm a Ph.D student from the Department of Computer Science and Engineering (CSE) at The Hong Kong University of Science and Technology.<br>
-
-![c58573a6eea54196bdf9bc1ea198f79f](https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/cbeceac5-c8e4-4efb-bdf9-0fc4ee84b302)
+    <br>Loading...<br>
 
 <div align=center>
 	<img src="https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/cbeceac5-c8e4-4efb-bdf9-0fc4ee84b302"/>
