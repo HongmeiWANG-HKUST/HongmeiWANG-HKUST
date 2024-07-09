@@ -4,7 +4,7 @@
   <samp>
     Hello! I'm Hongmei.
     <br>I'm a Ph.D student from the Department of Computer Science and Engineering (CSE) at The Hong Kong University of Science and Technology.<br>
-    <br>I'm study in **[Smart Lab](https://hkustsmartlab.github.io/)** at HKUST.<br>
+    <br>I'm study in **[Smart Lab](https://hkustsmartlab.github.io)** at HKUST.<br>
     <br>Loading...<br>
 
 <div align=center>
