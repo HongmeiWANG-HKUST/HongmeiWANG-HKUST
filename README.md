@@ -1,15 +1,12 @@
-## Hi there 👋
+## Hi there！I'm Hongmei👋
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm Hongmei.
+    Hello! I'm Hongmei.
     <br>I'm a Ph.D student from the Department of Computer Science and Engineering (CSE) at The Hong Kong University of Science and Technology.<br>
 
-![3685c2e10930b3620fc1b3304579a01d](https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/ab5aef24-027c-488d-9a85-06d614c32f84)
-
 </samp>
-
-  <img src="[https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/98c865e5-5415-41fc-a440-7315ee7b4a6f.gif]" width="200"/>
+  <img src="[https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/04bbc6dc-3369-434d-a82b-6be42757c693.gif]" width="200"/>
 
 </p>
 
