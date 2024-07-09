@@ -1,9 +1,11 @@
-![3685c2e10930b3620fc1b3304579a01d](https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/ab5aef24-027c-488d-9a85-06d614c32f84)## Hi there 👋
+## Hi there 👋
 <p align="center">
   <br>
   <samp>
     Hello there! I'm Hongmei.
     <br>I'm a Ph.D student from the Department of Computer Science and Engineering (CSE) at The Hong Kong University of Science and Technology.<br>
+
+![3685c2e10930b3620fc1b3304579a01d](https://github.com/HongmeiWANG-HKUST/HongmeiWANG-HKUST/assets/175083012/ab5aef24-027c-488d-9a85-06d614c32f84)
 
 </samp>
 
