@@ -4,7 +4,7 @@
   <samp>
     Hello! I'm Hongmei.
     <br>I'm a Ph.D student from the Department of Computer Science and Engineering (CSE) at The Hong Kong University of Science and Technology.<br>
-    <br>I'm study in <a href="https://hkustsmartlab.github.io" target="_blank">Smart Lab</a> at HKUST and research on medical image analysis and explainable AI. <br>
+    <br>I'm study in <a href="https://hkustsmartlab.github.io" target="_blank">Smart Lab</a> at HKUST and research on medical image analysis as well as explainable AI. <br>
     <br>Loading...<br>
 
 <div align=center>
